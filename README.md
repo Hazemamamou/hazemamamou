@@ -50,7 +50,8 @@ Tech: Python, Transformers, Scikit-learn
 
 ## 🌐 Links
 
-Portfolio: https://hazemamamou.github.io  
+Portfolio: https://hazemamamou.github.io
+
 LinkedIn: https://www.linkedin.com/in/hazem-amamou-9b7635376/
 
 Research Gate: https://www.researchgate.net/profile/Amamou-Hazem?ev=hdr_xprf
