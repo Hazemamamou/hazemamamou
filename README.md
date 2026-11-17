@@ -52,6 +52,10 @@ Contributed to an AI-powered municipal services platform: agent workflows, retri
 
 ## 🚀 Public Projects
 
+### [municipal-ai-agent](https://github.com/Hazemamamou/municipal-ai-agent)
+Bilingual (EN/FR) municipal FAQ assistant: a LangGraph workflow (retrieve, generate, validate) with grounded, cited answers, refusal on missing evidence, 88 offline tests, CI, Docker Compose, and threshold evaluation on held-out data. Uses synthetic data; a demo, not a production deployment.
+Tech: Python, FastAPI, LangGraph, Qdrant, Azure OpenAI, Docker
+
 ### [graphrag-robustness](https://github.com/Hazemamamou/graphrag-robustness)
 Knowledge graph-enhanced RAG to improve the robustness and reliability of LLM systems.
 Tech: Python, Neo4j, HuggingFace, PyTorch
